@@ -3,6 +3,8 @@
 Task AI-CM-008 | Data Alcott Systems | Free Online AI & Data Science Internship
 Name: Samudrala Neha
 Student Code: DAS014399
+Task Link: Task AI-CM-008 - AI Product Description Generator
+Platform: https://www.freeinternships.in (Data Alcott Systems)
 
 ## About the project
 This project takes product details like name, category, features, target audience and
