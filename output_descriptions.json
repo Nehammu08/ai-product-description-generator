@@ -1,0 +1,43 @@
+{
+  "platform": "amazon",
+  "tone": "professional",
+  "short_description": "Meet the SmartWatch Pro X, a reliable smartwatch made for fitness enthusiasts. Features: Heart Rate Monitor, GPS Tracking, Water Resistant.",
+  "bullet_points": [
+    "HEART RATE MONITOR: Keep track of your health all day.",
+    "GPS TRACKING: Track your routes accurately.",
+    "WATER RESISTANT: Use it in rain or workouts without worry.",
+    "7-DAY BATTERY: Stay powered for days without charging.",
+    "AMOLED DISPLAY: See everything clearly, even in sunlight."
+  ],
+  "long_description": "The SmartWatch Pro X helps you track your health and fitness goals. With Heart Rate Monitor, you can keep track of your health all day. With GPS Tracking, you can track your routes accurately. With Water Resistant, you can use it in rain or workouts without worry. With 7-Day Battery, you can stay powered for days without charging. Customer reviews are mostly positive. Order the SmartWatch Pro X today and feel the difference.",
+  "seo": {
+    "title": "SmartWatch Pro X | Smartwatch",
+    "meta_description": "Buy SmartWatch Pro X online. Best smartwatch for fitness enthusiasts."
+  },
+  "keywords": [
+    "smartwatch",
+    "heart rate monitor",
+    "gps tracking",
+    "water resistant",
+    "7-day battery",
+    "amoled display",
+    "best smartwatch",
+    "buy smartwatch",
+    "affordable smartwatch",
+    "great",
+    "battery",
+    "life"
+  ],
+  "review_insights": {
+    "sentiment": "positive",
+    "praised": [
+      "great",
+      "bright",
+      "accurate"
+    ],
+    "complaints": [
+      "slow",
+      "cheap"
+    ]
+  }
+}
